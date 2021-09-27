@@ -1,6 +1,6 @@
 # Motion-Blur 
 Instagram &amp; Facebook Effect.
-Source file included.
+ <br /> Source file included.
 
 # Try It On 
 Facebook : https://www.facebook.com/fbcameraeffects/tryit/131814619089466/
